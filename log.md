@@ -88,11 +88,11 @@ The Restaurant Review app is also finished. I definitely learnt a lot about npm 
 
 ### Day 8: May 28, 2021, Friday
 
-**Today's Progress**: I attempted another code along challenge to create a full MERN stack project
+**Today's Progress**: I attempted one of the Frontend Mentor challenges
 
-**Thoughts** The project idea was to use create-react-app and mongodb to develop a restaurant review site. It was cool to code along just to see what you can do with this stack and to ge an idea on how it works. I definitely need some practice to do this project independantly.
+**Thoughts** It was a lot more difficult to get everything perfect than I thought it would be. I definitely need to learn some more css tricks to streamline this process. However, I am starting to get ito the habit of css custom properties.
 
-**Link to work:** [Restaurant Reviews](https://github.com/BrigitteSprung/Restaurant-Reviews)
+**Link to work:** [Stats preview card component](https://github.com/BrigitteSprung/stats-preview-card-component-frontendmentor)
 
 ---
 
