@@ -92,7 +92,26 @@ The Restaurant Review app is also finished. I definitely learnt a lot about npm 
 
 **Thoughts** It was a lot more difficult to get everything perfect than I thought it would be. I definitely need to learn some more css tricks to streamline this process. However, I am starting to get ito the habit of css custom properties.
 
-**Link to work:** [Stats preview card component](https://github.com/BrigitteSprung/stats-preview-card-component-frontendmentor)
+So I ended up almost immediately trying another FMP challenge. Also a newbie one. This one went a bit better. I was much quicker in setting up the layout and all the class. For future I'd like to try this again but with Sass.
+
+**Link(s) to work:** 
+1. [Stats preview card component](https://github.com/BrigitteSprung/stats-preview-card-component-frontendmentor)
+2. [3 column preview card](https://github.com/BrigitteSprung/3-column-preview-card-component-frontendmentor)
+
+---
+
+
+### Day 9: May 29, 2021, Saturday
+
+**Today's Progress**: I attempted one of the Frontend Mentor challenges
+
+**Thoughts** Today I want to practice some JavaScript. I've been playing with freecodecamp.com and codewars. 
+
+Also I got sent a skills test for a job that includes AWS, so I will see if I can learn some of that for the test.
+
+**Link(s) to work:** 
+1. [Stats preview card component](https://github.com/BrigitteSprung/stats-preview-card-component-frontendmentor)
+2. [3 column preview card](https://github.com/BrigitteSprung/3-column-preview-card-component-frontendmentor)
 
 ---
 
