@@ -101,17 +101,15 @@ So I ended up almost immediately trying another FMP challenge. Also a newbie one
 ---
 
 
-### Day 9: May 29, 2021, Saturday
+### Day 9: May 30, 2021, Sunday
 
-**Today's Progress**: I attempted one of the Frontend Mentor challenges
+**Today's Progress**: Static Site Generators and Headless CMS
 
-**Thoughts** Today I want to practice some JavaScript. I've been playing with freecodecamp.com and codewars. 
+**Thoughts** Today was a super lazy day so I just played aorund with youtube tutorials. I learnt how to create a blog site through Eleventy and Netlify. It was a lot simpler to get up and running than I would have expected. I want to use what I learnt here to make my own blog site. 
 
-Also I got sent a skills test for a job that includes AWS, so I will see if I can learn some of that for the test.
 
 **Link(s) to work:** 
-1. [Stats preview card component](https://github.com/BrigitteSprung/stats-preview-card-component-frontendmentor)
-2. [3 column preview card](https://github.com/BrigitteSprung/3-column-preview-card-component-frontendmentor)
+1. [eleventy-netlify-blog](https://github.com/BrigitteSprung/eleventy-netlify-blog)
 
 ---
 
