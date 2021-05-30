@@ -103,10 +103,11 @@ So I ended up almost immediately trying another FMP challenge. Also a newbie one
 
 ### Day 9: May 30, 2021, Sunday
 
-**Today's Progress**: Static Site Generators and Headless CMS
+**Today's Progress**: Static Site Generators and Headless CMS - The JAMStack
 
 **Thoughts** Today was a super lazy day so I just played aorund with youtube tutorials. I learnt how to create a blog site through Eleventy and Netlify. It was a lot simpler to get up and running than I would have expected. I want to use what I learnt here to make my own blog site. 
 
+I did another tutorial with Gatsby to see how that generator works. It was really nice and now I'm more keen to try develop something. I prefer Gatsby, because I get a chance to practice React.
 
 **Link(s) to work:** 
 1. [eleventy-netlify-blog](https://github.com/BrigitteSprung/eleventy-netlify-blog)
