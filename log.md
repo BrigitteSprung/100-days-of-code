@@ -117,30 +117,12 @@ I did another tutorial with Gatsby to see how that generator works. It was reall
 
 ### Day 10: May 31 2021, Monday
 
-**Today's Progress**: Static Site Generators and Headless CMS - The JAMStack
+**Today's Progress**: Sass!
 
-**Thoughts** Today was a super lazy day so I just played aorund with youtube tutorials. I learnt how to create a blog site through Eleventy and Netlify. It was a lot simpler to get up and running than I would have expected. I want to use what I learnt here to make my own blog site. 
-
-I did another tutorial with Gatsby to see how that generator works. It was really nice and now I'm more keen to try develop something. I prefer Gatsby, because I get a chance to practice React.
+**Thoughts** Today I learnt how to use Sass more efficiently. It works so nicely to keep css code need. I definitely want to redo some older projects, but using Sass.
+It also makes responsiveness so mucch easier to handle.
 
 **Link(s) to work:** 
-1. [eleventy-netlify-blog](https://github.com/BrigitteSprung/eleventy-netlify-blog)
-2. [my-gatsby-site](https://github.com/BrigitteSprung/my-gatsby-site)
+1. [Portfolio using sass](https://github.com/BrigitteSprung/portfolio-sass)
 
-https://github.com/BrigitteSprung/portfolio-sass
-
-### Example text
-
-### Day 2: May 21, 2021, Friday
-
-**Today's Progress**: I attempted another code along challenge to create a full MERN stack project
-
-**Thoughts** The project idea was to use create-react-app and mongodb to develop a restaurant review site. It was cool to code along just to see what you can do with this stack and to ge an idea on how it works. I definitely need some practice to do this project independantly.
-
-**Link to work:** [Restaurant Reviews](https://github.com/BrigitteSprung/Restaurant-Reviews)
-
-
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+---
