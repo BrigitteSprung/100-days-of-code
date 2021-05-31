@@ -15,7 +15,7 @@
 
 **Today's Progress**: I made a Discord Bot!
 
-**Thoughts** This was a code along tutorial, but it was so exciting to see something work. And it was nice to do something different to Front-end Dev for a change. I learnt more about how api's work and how to keep a server up and running continuously.
+**Thoughts:** This was a code along tutorial, but it was so exciting to see something work. And it was nice to do something different to Front-end Dev for a change. I learnt more about how api's work and how to keep a server up and running continuously.
 
 **Link to work:** [Encourage Bot](https://github.com/BrigitteSprung/Encourage-Bot-JS)
 
@@ -25,7 +25,7 @@
 
 **Today's Progress**: I attempted another code along challenge to create a full MERN stack project
 
-**Thoughts** The project idea was to use create-react-app and mongodb to develop a restaurant review site. It was cool to code along just to see what you can do with this stack and to ge an idea on how it works. I definitely need some practice to do this project independantly.
+**Thoughts:** The project idea was to use create-react-app and mongodb to develop a restaurant review site. It was cool to code along just to see what you can do with this stack and to ge an idea on how it works. I definitely need some practice to do this project independantly.
 
 **Link to work:** [Restaurant Reviews](https://github.com/BrigitteSprung/Restaurant-Reviews)
 
@@ -35,7 +35,7 @@
 
 **Today's Progress**: Progress on Portfolio and Restaurant Reviews
 
-**Thoughts** The Portfolio is coming along nicely, coming up with things to say for the projects has been diffucult though. The portfolio has been mostly completed, just some alterations for mobile to work out.
+**Thoughts:** The Portfolio is coming along nicely, coming up with things to say for the projects has been diffucult though. The portfolio has been mostly completed, just some alterations for mobile to work out.
 
 The Restaurant Review app is also finished. I definitely learnt a lot about npm in this project with how many dependancies I had to manage.
 
@@ -48,7 +48,7 @@ The Restaurant Review app is also finished. I definitely learnt a lot about npm 
 
 **Today's Progress**: I learnt about complex CSS animations
 
-**Thoughts** I worked on trying to recreate css animations in codepen. It's kind of amazing what all you can do with this language. It's also useful to havea folder of these ready to add to any future projects.
+**Thoughts:** I worked on trying to recreate css animations in codepen. It's kind of amazing what all you can do with this language. It's also useful to havea folder of these ready to add to any future projects.
 
 **Link to work:** [CSS Animations](https://codepen.io/collection/QWWgwk)
 
@@ -58,7 +58,7 @@ The Restaurant Review app is also finished. I definitely learnt a lot about npm 
 
 **Today's Progress**: Today I made a landing page for a Business using Firebase.
 
-**Thoughts** It took a while to remember how to set up firebase but once set up it was very easy to use. It was also good to see how long it would take me to set up the front-end of a business page. I'm not sure I liked my design, so I will definitely be revisiting this project. 
+**Thoughts:** It took a while to remember how to set up firebase but once set up it was very easy to use. It was also good to see how long it would take me to set up the front-end of a business page. I'm not sure I liked my design, so I will definitely be revisiting this project. 
 - [ ] It also motivated me to attempt a project with the Instagram api. 
 **Link to work:** [Buzibodz](https://github.com/BrigitteSprung/buzibodz-website)
 
@@ -68,7 +68,7 @@ The Restaurant Review app is also finished. I definitely learnt a lot about npm 
 
 **Today's Progress**: I fininshed my portfolio website!
 
-**Thoughts** Well... enough to not be embarrased by putting it online. I definitely plan on working on this more in the future.
+**Thoughts:** Well... enough to not be embarrased by putting it online. I definitely plan on working on this more in the future.
 - [ ] For the future: Upload to custom domain
 
 **Link to work:** [Restaurant Reviews](https://github.com/BrigitteSprung.github.io)
@@ -79,7 +79,7 @@ The Restaurant Review app is also finished. I definitely learnt a lot about npm 
 
 **Today's Progress**: I completed 2 projects from freecodecamp.com - Responsive Web Design
 
-**Thoughts** I completed the Personal Portfolio and the Product Landing page projects. This was good practice in quickly designing something and also following user stories. I practiced using Google Fonts, Coloors, font-awesome and css animations in my design.
+**Thoughts:** I completed the Personal Portfolio and the Product Landing page projects. This was good practice in quickly designing something and also following user stories. I practiced using Google Fonts, Coloors, font-awesome and css animations in my design.
 
 **Link to work:** [Personal Portfolio](https://codepen.io/brigittesprung/pen/LYWjBvm)
 **Link to work:** [Product Page](https://codepen.io/brigittesprung/pen/MWpvNPr)
@@ -90,7 +90,7 @@ The Restaurant Review app is also finished. I definitely learnt a lot about npm 
 
 **Today's Progress**: I attempted one of the Frontend Mentor challenges
 
-**Thoughts** It was a lot more difficult to get everything perfect than I thought it would be. I definitely need to learn some more css tricks to streamline this process. However, I am starting to get ito the habit of css custom properties.
+**Thoughts:** It was a lot more difficult to get everything perfect than I thought it would be. I definitely need to learn some more css tricks to streamline this process. However, I am starting to get ito the habit of css custom properties.
 
 So I ended up almost immediately trying another FMP challenge. Also a newbie one. This one went a bit better. I was much quicker in setting up the layout and all the class. For future I'd like to try this again but with Sass.
 
@@ -105,7 +105,7 @@ So I ended up almost immediately trying another FMP challenge. Also a newbie one
 
 **Today's Progress**: Static Site Generators and Headless CMS - The JAMStack
 
-**Thoughts** Today was a super lazy day so I just played aorund with youtube tutorials. I learnt how to create a blog site through Eleventy and Netlify. It was a lot simpler to get up and running than I would have expected. I want to use what I learnt here to make my own blog site. 
+**Thoughts:** Today was a super lazy day so I just played aorund with youtube tutorials. I learnt how to create a blog site through Eleventy and Netlify. It was a lot simpler to get up and running than I would have expected. I want to use what I learnt here to make my own blog site. 
 
 I did another tutorial with Gatsby to see how that generator works. It was really nice and now I'm more keen to try develop something. I prefer Gatsby, because I get a chance to practice React.
 
@@ -119,7 +119,7 @@ I did another tutorial with Gatsby to see how that generator works. It was reall
 
 **Today's Progress**: Sass!
 
-**Thoughts** Today I learnt how to use Sass more efficiently. It works so nicely to keep css code need. I definitely want to redo some older projects, but using Sass.
+**Thoughts:** Today I learnt how to use Sass more efficiently. It works so nicely to keep css code need. I definitely want to redo some older projects, but using Sass.
 It also makes responsiveness so mucch easier to handle.
 
 **Link(s) to work:** 
