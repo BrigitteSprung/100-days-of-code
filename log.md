@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+**Current**: 17/100
+**Streaks**: 17/30 Days
+
 ### Day 0: May 19, 2021, Wednesday
 ##### 
 
@@ -124,5 +127,85 @@ It also makes responsiveness so mucch easier to handle.
 
 **Link(s) to work:** 
 1. [Portfolio using sass](https://github.com/BrigitteSprung/portfolio-sass)
+
+---
+
+### Day 11: June 1 2021, Tuesday
+
+**Today's Progress**: Open Source
+
+**Thoughts:** Today I learnt how to contribute to open source. It was just a simple thing of adding my name to a gigantic text file, but still really exciting to learn how to contribute.
+
+I also changed my previous frontend mentor project to a grid structure.
+
+**Link(s) to work:** 
+1. [Contribute to this Project](https://github.com/BrigitteSprung/Contribute-To-This-Project)
+2. [3 column preview card](https://github.com/BrigitteSprung/3-column-preview-card-component-frontendmentor)
+
+---
+
+### Day 12: June 2 2021, Wednesday
+
+**Today's Progress**: Huble Project
+
+**Thoughts:** Today I started on the Huble Digital assessment. It was a fully frontend project using sass and animation. Today I just focused on getting the html structure setup.
+
+**Link(s) to work:** 
+1. [Huble Assessment](https://github.com/BrigitteSprung/huble-assessment)
+
+---
+
+### Day 13: June 4 2021, Friday
+
+**Today's Progress**: Huble Project
+
+**Thoughts:** Today I started on the Huble Digital assessment. It was a fully frontend project using sass and animation. Today I just focused on getting the html structure setup.
+
+**Link(s) to work:** 
+1. [Huble Assessment](https://github.com/BrigitteSprung/huble-assessment)
+
+---
+
+### Day 14: June 5 2021, Saturday
+
+**Today's Progress**: Huble Project
+
+**Thoughts:** Today I carried on working on the Huble Assessment. I focused on getting the styling for each section done. It was helpful having a Sass background as it kept things nice and modular. I also started looking for ideas on the animation and carousel effects.
+
+**Link(s) to work:** 
+1. [Huble Assessment](https://github.com/BrigitteSprung/huble-assessment)
+
+---
+
+### Day 15: June 6 2021, Sunday
+
+**Today's Progress**: Huble Project
+
+**Thoughts:** Today I completed the bulk of the assessment. I managed to get the carousel working and the animation. They ended up being a lot easier to do than expected. 
+
+**Link(s) to work:** 
+1. [Huble Assessment](https://github.com/BrigitteSprung/huble-assessment)
+
+---
+
+### Day 16: June 8 2021, Tuesday
+
+**Today's Progress**: Huble Project
+
+**Thoughts:** Today I handed in the Huble Assessment. I integrated an api just to test myself. Learning Javascript asyn/await was so confusing.
+
+**Link(s) to work:** 
+1. [Huble Assessment](https://github.com/BrigitteSprung/huble-assessment)
+
+---
+
+### Day 17: June 9 2021, Wednesday
+
+**Today's Progress**: Dynamic Programming
+
+**Thoughts:** Today I practiced some dynamic programming algorithms as I had mostly forgotten them from varsity. They are very interesting and I definitely want to have a look at them again. And it helped, because my coding interview the next day went very well.
+
+**Link(s) to work:** 
+1. [Dynamic Programming](https://github.com/BrigitteSprung/dynamic-programming)
 
 ---
